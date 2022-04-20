@@ -1,0 +1,25 @@
+{
+  "name": "docker-crash-course",
+  "version": "1.0.0",
+  "description": "All course files for the Docker Crash Course tutorial on the Net Ninja site &amp; YouTube channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexalim28/docker-crash-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexalim28/docker-crash-course/issues"
+  },
+  "homepage": "https://github.com/Alexalim28/docker-crash-course#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
+}
